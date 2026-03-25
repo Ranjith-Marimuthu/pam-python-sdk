@@ -31,7 +31,7 @@ cp .env.example .env
 
 | Variable        | Description                                      | Example                                              |
 | --------------- | ------------------------------------------------ | ---------------------------------------------------- |
-| `TSS_BASE_URL`  | Base URL of your Secret Server instance           | `https://ssvault.volvocars.net/SecretServer`                 |
+| `TSS_BASE_URL`  | Base URL of your Secret Server instance           | `https://<vault>.<domain>.net/SecretServer`                 |
 | `TSS_API_TOKEN` | API Bearer token for authentication               | `ag5...xyz`                                          |
 | `SECRET_ID`     | Numeric ID of the secret to retrieve              | `42`                                                 |
 
