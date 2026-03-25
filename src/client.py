@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch a secret password from Delinea Secret Server (on-prem) using API token."""
+"""Fetch a secret password from Delinea Secret Server Vault using API token."""
 
 import os
 import sys
